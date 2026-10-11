@@ -1,0 +1,2 @@
+# EduBot
+AI Educational Helper
